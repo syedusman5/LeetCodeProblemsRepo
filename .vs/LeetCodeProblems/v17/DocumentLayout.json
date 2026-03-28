@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Syed\\LeetCodeProblems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|d:\\syed\\leetcodeproblems\\leetcodeproblems\\easy\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|solutionrelative:leetcodeproblems\\easy\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|d:\\syed\\leetcodeproblems\\leetcodeproblems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|solutionrelative:leetcodeproblems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|d:\\syed\\leetcodeproblems\\leetcodeproblems\\easy\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|solutionrelative:leetcodeproblems\\easy\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|d:\\syed\\leetcodeproblems\\leetcodeproblems\\easy\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|solutionrelative:leetcodeproblems\\easy\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|d:\\syed\\leetcodeproblems\\leetcodeproblems\\easy\\palindromenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|solutionrelative:leetcodeproblems\\easy\\palindromenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|d:\\syed\\leetcodeproblems\\leetcodeproblems\\easy\\matrixsimilarityaftercyclicshifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|solutionrelative:leetcodeproblems\\easy\\matrixsimilarityaftercyclicshifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|d:\\syed\\leetcodeproblems\\leetcodeproblems\\easy\\romantointeger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4AA8C-807D-4A99-B234-CD139BBC2E9A}|LeetCodeProblems\\LeetCodeProblems.csproj|solutionrelative:leetcodeproblems\\easy\\romantointeger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidParentheses.cs",
+              "DocumentMoniker": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\ValidParentheses.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblems\\Easy\\ValidParentheses.cs",
+              "ToolTip": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\ValidParentheses.cs",
+              "RelativeToolTip": "LeetCodeProblems\\Easy\\ValidParentheses.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:41:45.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LongestCommonPrefix.cs",
+              "DocumentMoniker": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\LongestCommonPrefix.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblems\\Easy\\LongestCommonPrefix.cs",
+              "ToolTip": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\LongestCommonPrefix.cs",
+              "RelativeToolTip": "LeetCodeProblems\\Easy\\LongestCommonPrefix.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:18:34.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatrixSimilarityAfterCyclicShifts.cs",
+              "DocumentMoniker": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\MatrixSimilarityAfterCyclicShifts.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblems\\Easy\\MatrixSimilarityAfterCyclicShifts.cs",
+              "ToolTip": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\MatrixSimilarityAfterCyclicShifts.cs",
+              "RelativeToolTip": "LeetCodeProblems\\Easy\\MatrixSimilarityAfterCyclicShifts.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T05:01:38.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwoSum.cs",
+              "DocumentMoniker": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\TwoSum.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblems\\Easy\\TwoSum.cs",
+              "ToolTip": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\TwoSum.cs",
+              "RelativeToolTip": "LeetCodeProblems\\Easy\\TwoSum.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAEwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:42:52.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblems\\Program.cs",
+              "ToolTip": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Program.cs",
+              "RelativeToolTip": "LeetCodeProblems\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:42:17.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PalindromeNumber.cs",
+              "DocumentMoniker": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\PalindromeNumber.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblems\\Easy\\PalindromeNumber.cs",
+              "ToolTip": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\PalindromeNumber.cs",
+              "RelativeToolTip": "LeetCodeProblems\\Easy\\PalindromeNumber.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:15:33.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RomanToInteger.cs",
+              "DocumentMoniker": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\RomanToInteger.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblems\\Easy\\RomanToInteger.cs",
+              "ToolTip": "D:\\Syed\\LeetCodeProblems\\LeetCodeProblems\\Easy\\RomanToInteger.cs",
+              "RelativeToolTip": "LeetCodeProblems\\Easy\\RomanToInteger.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:42:42.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

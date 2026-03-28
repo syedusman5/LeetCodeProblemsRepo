@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Others
+*.log
