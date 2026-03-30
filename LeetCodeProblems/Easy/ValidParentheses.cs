@@ -1,9 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace LeetCodeProblems.Easy
 {
     internal class ValidParentheses
@@ -45,19 +39,67 @@ namespace LeetCodeProblems.Easy
         //TestCase 1: "()"
         //TestCase 2: "()[]{}"
         //TestCase 3: "(]"
-        //TestCase 3: "([])"
-        //TestCase 3: "([)]"
+        //TestCase 4: "([])"
+        //TestCase 5: "([)]" //false
+        //TestCase 6: "(){}}{"
+        //TestCase 7: "({{{{}}}))"
+        //TestCase 8: "[[[]"
 
         public static bool Solution(string s)
         {
-            char[] strArr = s.ToCharArray();
+            if (s == null || s.Length % 2 != 0) return false;
 
-            for(int i = 0; i < strArr.Length; i++)
+            Stack<char> stackChars = new Stack<char>();
+
+            bool result = false;
+
+            for (int i = 0; i < s.Length; i++)
             {
+                if (stackChars.Count == 0 && (s[i] == ')' || s[i] == '}' || s[i] == ']')) return false;
+
+                if(stackChars.Count != 0)
+                {
+                    if (s[i] == '(' || s[i] == '{' || s[i] == '[')
+                    {
+                        stackChars.Push(s[i]);
+                    }
+                    else
+                    {
+                         char stackChar = stackChars.Pop();
+
+                            string cbmprths = stackChar.ToString() + s[i];
+
+                            if (cbmprths == "()")
+                            {
+                                result = true;
+                            }
+                            else if (cbmprths == "{}")
+                            {
+                                result = true;
+                            }
+                            else if (cbmprths == "[]")
+                            {
+                                result = true;
+                            }
+                            else
+                            {
+                                 return false;
+                            }
+                    }
+                }
+                else if(stackChars.Count == 0)
+                {
+                     stackChars.Push(s[i]);
+                }
+
 
             }
 
-            return true;
+            if(stackChars.Count > 0)
+            {
+                return false;
+            }
+            return result;
         }
     }
 }
