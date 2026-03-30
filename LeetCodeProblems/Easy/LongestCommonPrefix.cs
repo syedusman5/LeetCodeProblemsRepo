@@ -33,6 +33,9 @@ namespace LeetCodeProblems.Easy
 
         //TestCase 1 : ["flower","flow","flight"]
         //TestCase 2 : ["dog","racecar","car"]
+        //TestCase 3 : ["a"]
+        //TestCase 4 : ["ab", "a", "abc"]
+        //TestCase 5 : ["cir","car"]
 
         public static string Solution(string[] strs)
         {
@@ -66,5 +69,43 @@ namespace LeetCodeProblems.Easy
 
             return "";
         }
+
+         public static string SolutionTwo(string[] strs) 
+         {
+             if(strs.Length == 1)
+             {
+                 return strs[0];
+             }
+        
+             StringBuilder sb = new StringBuilder();
+             int isAllValid = 0;
+             string chkString = strs.OrderBy(x => x.Length).FirstOrDefault();
+        
+             for (int i = 0; i < chkString.Length; i++)
+             {
+                 char chkChar = chkString[i];
+        
+                 for (int j = 0; j < strs.Length; j++)
+                 {
+                     string toChkString = strs[j];
+        
+                     if(chkChar == toChkString[i])
+                     {
+                         isAllValid++;
+                     }
+                 }
+                 if( isAllValid  == strs.Length)
+                 {
+                     sb.Append(chkChar);
+        
+                 }
+                 else
+                 {
+                     return sb.ToString();
+                 }
+                 isAllValid = 0;
+             }
+             return sb.ToString();
+         }
     }
 }
